@@ -1,0 +1,28 @@
+cygnusloop: &cygnusloop
+  bright:
+    black: '#1e1e20'
+    blue: '#1e7cbe'
+    cyan: '#1ed7ff'
+    green: '#335e90'
+    magenta: '#335e90'
+    red: '#353d4d'
+    white: '#7cffff'
+    yellow: '#7cffff'
+  cursor:
+    cursor: '#7cffff'
+    text: '#1e1e20'
+  normal:
+    black: '#000002'
+    blue: '#005ea0'
+    cyan: '#00b9e9'
+    green: '#154072'
+    magenta: '#154072'
+    red: '#171f2f'
+    white: '#5ee7fb'
+    yellow: '#5ee7fb'
+  primary:
+    background: '#000002'
+    foreground: '#5ee7fb'
+  selection:
+    background: '#5ee7fb'
+    text: '#000002'
